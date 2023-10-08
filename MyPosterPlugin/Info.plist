@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSExtension</key>
+	<dict>
+		<key>EXAppExtensionAttributes</key>
+		<dict>
+			<key>EXExtensionPointIdentifier</key>
+			<string>com.apple.posterkit.provider</string>
+		</dict>
+		<key>NSExtensionPointIdentifier</key>
+		<string>com.apple.posterkit.provider</string>
+	</dict>
+	<key>UIApplicationShowsViewsWhileLocked</key>
+	<true/>
+	<key>PRSupportedRoles</key>
+	<array>
+		<string>PRPosterRoleLockScreen</string>
+	</array>
+	<key>PRWantsLocation</key>
+	<true/>
+	<key>NSLocationUsageDescription</key>
+	<string>Your location is used to show local weather.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Your location is used to show local weather.</string>
+</dict>
+</plist>

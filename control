@@ -1,0 +1,9 @@
+Package: com.pookjw.myposter
+Name: MyPoster
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Hello PosterKit!
+Maintainer: pookjw
+Author: pookjw
+Section: Utilities
+Depends: firmware (>= 17.0)

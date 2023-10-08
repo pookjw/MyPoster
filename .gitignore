@@ -1,0 +1,4 @@
+.theos/
+.xcodebuild/
+packages/
+.DS_Store
